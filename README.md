@@ -8,7 +8,7 @@ This project automates a drip irrigation system using an **Arduino Nano**, a **1
 ## ⚡️ Features
 - Automatic valve control at a fixed time.
 - Uses an RTC (DS3231) to maintain accurate timing.
-- Powered by 8x AA batteries, lasting 2-3 months.
+- Powered by 8x AA batteries.
 
 ---
 
